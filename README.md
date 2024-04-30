@@ -1,11 +1,15 @@
-# QingLongJB
+# 青龙脚本库
 
----
 
-拉取命令：
+## 订阅管理
 
-```ql
-ql repo https://github.com/hack-scan/QingLongJB.git
+```
+名称：qlku
+类型：公开仓库
+链接：https://github.com/hack-scan/QingLongJB.git
+定时类型：crontab
+定时规则：2 2 28 * *
+文件后缀：js py sh
 ```
 
 
